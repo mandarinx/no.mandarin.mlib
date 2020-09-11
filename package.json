@@ -1,0 +1,18 @@
+{
+  "name": "no.mandarin.mlib",
+  "version": "1.0.0",
+  "displayName": "MLib",
+  "description": "General purpose tools for use in any project",
+  "unity": "2020.1",
+  "unityRelease": "2f1",
+  "keywords": [
+    "general purpose",
+    "tools",
+    "editor"
+  ],
+  "author": {
+    "name": "Thomas Viktil",
+    "email": "mandarin@mandarin.no",
+    "url": "https://mandarin.no"
+  }
+}
